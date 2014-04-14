@@ -1,0 +1,76 @@
+#map {
+	height: 500px;
+	margin: 20px;
+}
+
+.container {
+	padding-right: 40px;
+	padding-left: 40px;
+	width: 100%;
+}
+
+
+.jumbotron {
+	background-color: #5c8fea !important;
+	color: white !important;
+	padding-top: 0px !important;
+	padding-bottom: 0px;
+	height: 120px;
+	background: #537ac1;
+	background-color: #5c8fea;
+	background-image: -webkit-linear-gradient(#5c8fea,#537ac1);
+	background-image: linear-gradient(to bottom,#5c8fea,#537ac1);
+}
+.header {
+	overflow: hidden;
+	position: relative;
+	height: inherit;
+	width: 100%;
+	background-position: 30% 50%;
+	background: url(../img/Skyline1.png) bottom no-repeat;
+
+}
+
+.header img {
+	max-height: 80px;
+	-webkit-filter: drop-shadow(1px 1px 5px #333);
+	filter: drop-shadow(1px 1px 5px #333);
+	margin-top: 20px;
+}
+
+.navbar {
+	margin-bottom: 0px;
+}
+
+.footer {
+	margin-top: 40px;
+/*	-moz-box-shadow: 0 0 16px rgba(0,0,0,0.6);
+	box-shadow: 0 0 16px rgba(0,0,0,0.6);*/
+}
+
+#chart {
+	display: none;
+	margin-top: 20px;
+	width: 100%;
+	max-width: 600px;
+	height: 400px;
+}
+
+#table {
+	margin-top: 20px;
+}
+
+@media (min-width: 970px) {
+	#map {
+		margin: 0;
+	}
+}
+
+#table tr {
+	cursor: pointer;
+}
+
+.leaflet-zoom-animated {
+	height: auto;
+	width: auto;
+}

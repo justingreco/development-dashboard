@@ -1,0 +1,1324 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marig",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"permitted",
+				"permitted_work_type"
+			],
+			[
+				"s",
+				"submitted"
+			],
+			[
+				"fr",
+				"fromDt"
+			],
+			[
+				"from",
+				"fromdate"
+			],
+			[
+				"proper",
+				"properties"
+			],
+			[
+				"curr",
+				"currentLine"
+			],
+			[
+				"bootstra",
+				"bootstrap-datetimepicker"
+			],
+			[
+				"subm",
+				"submitHandler"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"hid",
+				"hideSplash"
+			],
+			[
+				"loca",
+				"localStorage"
+			],
+			[
+				"check",
+				"checkSupplies"
+			],
+			[
+				"bldgs",
+				"bldgSelect"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"bldg",
+				"bldgSelect"
+			],
+			[
+				"clear",
+				"clearInterval"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"refres",
+				"refreshIndex"
+			],
+			[
+				"selected",
+				"selectedIndex"
+			],
+			[
+				"ref",
+				"refreshInterval"
+			],
+			[
+				"refre",
+				"refreshIndex"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"set",
+				"setUpdateInputs"
+			],
+			[
+				"CALL",
+				"CALLER_PHN2"
+			],
+			[
+				"CALLER",
+				"CALLER_PHN"
+			],
+			[
+				"obj",
+				"objectIds"
+			],
+			[
+				"C",
+				"CALLER_EMAIL"
+			],
+			[
+				"OBJEC",
+				"OBJECTID"
+			],
+			[
+				"find",
+				"findIntersectingStreets"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"ob",
+				"orderByFields"
+			],
+			[
+				"IN",
+				"INCIDENT_TEXT"
+			],
+			[
+				"remove",
+				"removeprop	.removeProp()"
+			],
+			[
+				"d",
+				"disabled	Attr"
+			],
+			[
+				"dat",
+				"dataset"
+			],
+			[
+				"address",
+				"addressSelected"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"append",
+				"appendTo	.appendTo()"
+			],
+			[
+				"di",
+				"displayEvents"
+			],
+			[
+				"pro",
+				"properties"
+			],
+			[
+				"id",
+				"idFeatures"
+			],
+			[
+				"Ide",
+				"IdentifyTask"
+			],
+			[
+				"Id",
+				"IdentifyParameters"
+			],
+			[
+				"field",
+				"fieldInfos"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"sear",
+				"searchable"
+			],
+			[
+				"Arc",
+				"ArcGISImageServiceLayer"
+			],
+			[
+				"mr",
+				"MosaicRule"
+			],
+			[
+				"o",
+				"objectIds"
+			],
+			[
+				"retu",
+				"returnGeometry"
+			],
+			[
+				"SHEE",
+				"SHEETTOT"
+			],
+			[
+				"asbuilts",
+				"asbuiltsPanel"
+			],
+			[
+				"SH",
+				"SHEETTOT"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"or",
+				"orderByFields"
+			],
+			[
+				"return",
+				"returnGeometry"
+			],
+			[
+				"bs",
+				"bs3-col	bs3-col"
+			],
+			[
+				"ar",
+				"ArcGISDynamicMapServiceLayer"
+			],
+			[
+				"createAppo",
+				"createApportionmentList"
+			],
+			[
+				"accou",
+				"accountAlert"
+			],
+			[
+				"par",
+				"parcel_status"
+			],
+			[
+				"curren",
+				"currentAcct"
+			],
+			[
+				"curre",
+				"currentAcct"
+			],
+			[
+				"toggl",
+				"toggleProgress"
+			],
+			[
+				"po",
+				"progressModal"
+			],
+			[
+				"porgr",
+				"progressMessage"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"categ",
+				"categoryField"
+			],
+			[
+				"category",
+				"categoryField"
+			],
+			[
+				"in",
+				"Incident"
+			],
+			[
+				"categro",
+				"categoryField"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"chart",
+				"chartArray"
+			],
+			[
+				"cal",
+				"callsLayer"
+			],
+			[
+				"ken",
+				"kendoGrid"
+			],
+			[
+				"categoryfi",
+				"categoryfield"
+			],
+			[
+				"no",
+				"notouch"
+			],
+			[
+				"tempm",
+				"tempMapPanel"
+			],
+			[
+				"buff",
+				"buffer"
+			],
+			[
+				"last",
+				"lastGeometry"
+			],
+			[
+				"setCa",
+				"setCategoryQueryString"
+			],
+			[
+				"catego",
+				"categories"
+			],
+			[
+				"DATE",
+				"DATECREATED"
+			],
+			[
+				"disp",
+				"displayField"
+			],
+			[
+				"ret",
+				"returnDistinctValues"
+			],
+			[
+				"select",
+				"selectpicker"
+			],
+			[
+				"graphics",
+				"graphicsLayer"
+			],
+			[
+				"street",
+				"streetService"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"type",
+				"typeahead"
+			],
+			[
+				"Simple",
+				"SimpleLineSymbol"
+			],
+			[
+				"st",
+				"streetTypeService"
+			],
+			[
+				"esri",
+				"esriGeometryPoint"
+			],
+			[
+				"ge",
+				"geometryType"
+			],
+			[
+				"esriG",
+				"esriGeometryPolyline"
+			],
+			[
+				"au",
+				"autoBind"
+			],
+			[
+				"ke",
+				"kendoDropDownList"
+			],
+			[
+				"kendoD",
+				"kendoDropDownList"
+			],
+			[
+				"graphc",
+				"graphicsLayer"
+			],
+			[
+				"cluster",
+				"clusterlayer"
+			],
+			[
+				"ArcGIS",
+				"ArcGISTiledMapServiceLayer"
+			],
+			[
+				"graph",
+				"graphicsLayer"
+			],
+			[
+				"tempmap",
+				"tempmappanel"
+			],
+			[
+				"get",
+				"getCrimes"
+			],
+			[
+				"char",
+				"chartArray"
+			],
+			[
+				"map",
+				"mappanel"
+			],
+			[
+				"print",
+				"printService"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"dista",
+				"distanceInput"
+			],
+			[
+				"geometry",
+				"geometry"
+			],
+			[
+				"vis",
+				"visualization"
+			],
+			[
+				"retur",
+				"returnGeometry"
+			],
+			[
+				"summ",
+				"summaryWindow"
+			],
+			[
+				"sumar",
+				"summaryWindow"
+			],
+			[
+				"Inci",
+				"Incidents"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"kend",
+				"kendowWindow"
+			],
+			[
+				"info",
+				"infoWindow"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/grecoj/fiber-animation/index.html",
+			"settings":
+			{
+				"buffer_size": 2541,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/grecoj/git/gis/marathon/index.html",
+			"settings":
+			{
+				"buffer_size": 5434,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/grecoj/python/wsgi/static/css/main.css",
+			"settings":
+			{
+				"buffer_size": 947,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/grecoj/python/wsgi/myflaskapp.py",
+			"settings":
+			{
+				"buffer_size": 5722,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "var config = {\n		search: {\n		url: 'http://maps.raleighnc.gov/arcgis/rest/services/Addresses/MapServer/0/query',\n		field: 'ADDRESS'\n	},\n	fields: {\n		devplans: [\n			{name: \"plan_number\", alias: \"Plan #\", type: \"text\"},\n			{name: \"plan_name\", alias: \"Plan Name\", type: \"text\", header: \"yes\", title: true},\n			{name: \"plan_type\", alias: \"Plan Type\", type: \"text\", title: true},\n			{name: \"submitted\", alias: \"Submitted\", type: \"date\"},\n			{name: \"owner\", alias: \"Owner\", type: \"text\", title: true},\n			{name: \"engineer\", alias: \"Engineer\", type: \"text\", title: true},\n			{name: \"acreage\", alias: \"Acres\", type:\"text\"}\n		],\n		permits: [\n			{name: \"permit_num\", alias: \"Permit #\", type: \"text\"},\n			{name: \"proposed_work\", alias: \"Proposed Work\", type: \"text\", title: true},\n			{name: \"authorized_work\", alias: \"Authorized Work\", type: \"text\", title: true},\n			{name: \"permitted_work_type\", alias: \"Permitted Work\", type: \"text\", title: true},\n			{name: \"development_plan\", alias: \"Development\", type: \"text\", title: true},\n			{name: \"address\", alias: \"Address\", type: \"text\", header: \"yes\", title: true},\n			{name: \"issue_date\", alias: \"Issued\", type:\"date\"},\n			{name: \"completion_date\", alias: \"Completed\", type: \"text\"},\n			{name: \"owner\", alias: \"Owner\", type: \"text\", title: true},\n			{name: \"contractor\", alias: \"Contractor\", type: \"text\", title: true},\n			{name: \"cost\", alias: \"Cost\", type:\"currency\"}\n		]\n	}\n}\n\nvar map, markers, heatLayer, bufferLayer, address;\n\nfunction setHeaders (table, props) {\n	var row = $(\"thead>tr\", table).empty();\n	// $.each(props, function (key, value) {\n	// 	row.append('<th>' + key.split(\"_\").join(\" \") + '</th>');\n	// });\n	$(config.fields[$(\"option:selected\", \"#dataSelect\").val()]).each(function (i, f) {\n		row.append('<th>' + f.alias + '</th>');\n	});\n}\n\nfunction checkValueFormat (c, f) {\n	var value = c.properties[f.name];\n	if (f.type === \"date\") {\n		value = moment(c.properties[f.name], 'YYYYMMDD').format('l');\n	} else if (f.type === \"currency\") {\n		value = \"$\" + value.toString();\n	}\n	if (f.title) {\n		value = toTitleCase(value);\n	}\n	return value;\n}\n\nfunction buildTable (data) {\n	var table = $(\"#table\"),\n		body = $('tbody', table).empty();\n	setHeaders(table, data[0].properties);\n	$(data).each(function (i, c) {\n		var row = $('<tr data-lat=\"'+data[i].geometry.coordinates[1]+'\" data-lon=\"'+data[i].geometry.coordinates[0]+'\"></tr>').appendTo(body);\n		// $.each(c.properties, function (key, value) {\n		// 	$('<td>' + value + '</td>').appendTo(row);\n		// });\n		$(config.fields[$(\"option:selected\", \"#dataSelect\").val()]).each(function (i, f) {\n			$('<td>' + checkValueFormat(c, f) + '</td>').appendTo(row);\n		});\n		row.click(function () {\n			map.setView([$(this).data('lat'), $(this).data('lon')], 18);\n		});\n	});\n\n}\n\nfunction toTitleCase(str)\n{\n    return str.replace(/\\w\\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});\n}\n\nfunction buildDevplanUrl (type, number) {\n	var arr = number.split(\"-\"),\n		year = arr[2],\n		num = arr[1],\n		zeros = 3 - num.toString().length;\n	if (zeros === 2) {\n		num = \"00\"+num.toString();\n	} else if (zeros === 1) {\n		num = \"0\"+num.toString();\n	}\n\n	var file = arr[0]+\"-\"+num+\"-\"+arr[2].substr(2,3)+\".pdf\";\n	var typeArr = toTitleCase(type).split(\" \");\n\n	type = (typeArr.length === 1) ? typeArr[0] : typeArr[0]+typeArr[1];\n	return \"http://www.raleighnc.gov/content/PlanDev/Documents/DevServ/DevPlans/Reviews/\"+year+\"/\"+type+\"/\"+file;\n}\n\nfunction getChartData (doc, lat, lon, dist, field) {\n	$.ajax({\n		url: \"http://python-greconcsu.rhcloud.com/ws/\"+doc+\"/near\",\n		data: {\n			lat: lat,\n			lon: lon,\n			dist: dist,\n			from: parseInt(fromDt),\n			to: parseInt(toDt),\n			field: field\n		},\n		dataType: \"json\",\n		success: function (data) { \n\n	}});\n}\n\nfunction getDevelopmentData (doc, lat, lon, dist) {\n	bufferLayer.clearLayers();\n	var circle = L.circle(L.latLng(lat, lon), \n		$(\"#distance option:selected\").val(), {\n			color: 'red',\n			fillOpacity: 0\n		}).addTo(bufferLayer),\n		fromDt =$('#datetimepicker1').data(\"DateTimePicker\").getDate().format('YYYYMMDD'),\n		toDt = $('#datetimepicker2').data(\"DateTimePicker\").getDate().format('YYYYMMDD');\n\n	map.fitBounds(circle.getBounds());\n\n	$.ajax({\n		url: \"http://python-greconcsu.rhcloud.com/ws/\"+doc+\"/near\",\n		data: {\n			lat: lat,\n			lon: lon,\n			dist: dist,\n			from: parseInt(fromDt),\n			to: parseInt(toDt)\n		},\n		dataType: \"json\",\n		success: function (data) {\n			markers.clearLayers();\n			buildTable(data);\n			markers.addLayer(L.geoJson(data, {\n				onEachFeature: function (feature, layer) {\n					var fields = config.fields[doc],\n						content = \"\";\n					var headers = $(fields).filter(function (i) {\n						return this.header;\n					});\n					var infos = $(fields).filter(function (i) {\n						return !this.header;\n					});\n					if (headers.length > 0) {\n						content += \"<h5>\"+checkValueFormat(feature, headers[0])+\"</h5>\";\n					}\n\n					if (infos.length > 0) {\n						$(infos).each(function(i, info) {\n							content += \"<span><strong>\" + info.alias + \":</strong>  \" + checkValueFormat(feature, info) + \"</span><br/>\";\n						});\n					}\n					if ($(\"option:selected\", \"#dataSelect\").val() === \"devplans\") {\n						content += \"<a href='\" + buildDevplanUrl(feature.properties.plan_type, feature.properties.plan_number) + \"' target='_blank'>Link</a>\";\n					}\n					layer.bindPopup(content);\n				}\n			}));\n		}\n	});\n}\n\nfunction searchByAddress (value, dataset) {\n	$.ajax({\n		url: config.search.url,\n		format: 'jsonp',\n		data: {\n			f: 'json',\n			returnGeometry: true,\n			where: config.search.field + \" = '\" + value + \"'\",\n			outSR: 4326\n		}\n	}).done(function (data) {\n		var data = $.parseJSON(data),\n			collection = $(\"option:selected\", \"#dataSelect\").val();\n		if (data.features.length > 0) {\n			address = data.features[0].geometry;\n			getDevelopmentData(collection, address.y, address.x, $(\"#distance option:selected\").val(), (collection ));\n			getChartData(collection, \"#dataSelect\").val(), address.y, address.x, $(\"#distance option:selected\").val());\n		}\n	});\n}\nvar addresses = [];\nfunction setAddressSearch () {\n	$(\"#address\").typeahead({\n		name: 'addresses',\n		remote: {\n			//url: config.search.url + '?f=json&where=UPPER(' + config.search.field + \") LIKE UPPER('%QUERY%')&outFields=\" + config.search.field + \"&returnGeometry=false\",\n			url: \"http://python-greconcsu.rhcloud.com/ws/addresses/like?input=%QUERY&limit=5\",\n			filter: function (resp) {\n				addresses = resp;\n				var values = [];\n				//$(resp.features).each(function (i, feature) {\n				//	values.push(feature.attributes[config.search.field]);\n				//});\n				$(resp).each(function(i, a) {\n					values.push(a.properties.ADDRESS);\n				});\n				return values;\n			}\n		}\n	}).on('typeahead:selected', function(obj, datum, dataset) {\n		//searchByAddress(datum.value, dataset);\n		var matches = $(addresses).filter(function (i) {\n			return this.properties.ADDRESS === datum.value;\n		});\n		if (matches.length > 0) {\n			address = matches[0].geometry.coordinates;\n			getDevelopmentData($(\"option:selected\", \"#dataSelect\").val(), matches[0].geometry.coordinates[1], matches[0].geometry.coordinates[0], $(\"#distance option:selected\").val());\n		}\n	});;\n}\n\nfunction setChart() {\n	//Get context with jQuery - using jQuery's .get() method.\n	var ctx = $(\"#chart\").get(0).getContext(\"2d\");\n	//This will get the first returned node in the jQuery collection.\n	var myNewChart = new Chart(ctx);\n}\n\n$(document).ready(function () {\n	map = L.map('map').setView([35.7769, -78.6436],12);\n	L.tileLayer('https://{s}.tiles.mapbox.com/v3/examples.map-vyofok3q/{z}/{x}/{y}.png',{attribution: 'Map data OpenStreetMap contributors'}).addTo(map);\n	markers = new L.MarkerClusterGroup().addTo(map);\n    heatLayer = L.TileLayer.heatMap({\n        radius: 20,\n        opacity: 0.8,\n        gradient: {\n            0.45: \"rgb(0,0,255)\",\n            0.55: \"rgb(0,255,255)\",\n            0.65: \"rgb(0,255,0)\",\n            0.95: \"yellow\",\n            1.0: \"rgb(255,0,0)\"\n        }\n    }).addTo(map);\n    bufferLayer = L.featureGroup().addTo(map);\n    setAddressSearch();\n    setChart();\n    //getDevelopmentData($(\"option:selected\", \"#dataSelect\").val());\n    var dt = new Date();\n    dt.setFullYear(dt.getFullYear() - 1);\n	$('#datetimepicker1').datetimepicker({pickTime: false, defaultDate: dt});\n	$('#datetimepicker2').datetimepicker({pickTime: false, defaultDate: new Date()});\n	$(\"#search\").click(function () {\n		getDevelopmentData($(\"option:selected\", \"#dataSelect\").val(), address[1], address[0], $(\"#distance option:selected\").val());\n	});\n    $(\"#dataSelect\").change(function () {\n    	//getDevelopmentData($(\"option:selected\", this).val());\n    });\n\n\n});",
+			"file": "/Users/grecoj/python/wsgi/static/js/main.js",
+			"file_size": 8840,
+			"file_write_time": 130404954550000000,
+			"settings":
+			{
+				"buffer_size": 8617,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/grecoj/git/addresses/addresses2.geojson",
+			"settings":
+			{
+				"buffer_size": 21361660,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/grecoj/git/gis/FindMyService/find-my-service.sublime-project",
+			"settings":
+			{
+				"buffer_size": 81,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Preferences: JSLint Settings – Default"
+			],
+			[
+				"Pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"start",
+				"Guard: Start Guard"
+			],
+			[
+				"Start",
+				"Guard: Start Guard"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 101.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/grecoj/python/wsgi/templates/dashboard/index.html",
+		"/Users/grecoj/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/F9EBED4E-74FF-437A-8D6C-7C31EE0BAFE9/addresses.php",
+		"/Users/grecoj/fiber-animation/index.html",
+		"/Users/grecoj/python/wsgi/static/main.js",
+		"/Users/grecoj/Desktop/test.tsv",
+		"/Users/grecoj/Desktop/zoning.json",
+		"/Users/grecoj/git/gis/adoptashelter/css/main.css",
+		"/Users/grecoj/git/gis/adoptashelter/js/main.js",
+		"/Users/grecoj/git/gis/adoptashelter_admin/js/main.js",
+		"/Users/grecoj/poi/poi_wgs.geojson",
+		"/Users/grecoj/poi/poi.geojson",
+		"/Users/grecoj/poi/map5.html",
+		"/Users/grecoj/poi/map.html",
+		"/Users/grecoj/poi/map2.html",
+		"/Users/grecoj/git/gis/RelatedTables/index.html",
+		"/Users/grecoj/git/gis/RelatedTables/js/main.js",
+		"/Users/grecoj/git/gis/PUMA/js/main.js",
+		"/Users/grecoj/git/gis/Stormwater/index.html",
+		"/Users/grecoj/git/gis/PUMA/index.html",
+		"/Volumes/grecoj/shelters.sql",
+		"/Volumes/grecoj/adopters.sql",
+		"/Users/grecoj/php/php/dirt-simple-api/inc/database.inc.txt",
+		"/Users/grecoj/python/wsgi/myflaskapp.py",
+		"/Users/grecoj/python/wsgi/templates/index.html",
+		"/Users/grecoj/python/csv_to_mongo.py",
+		"/Users/grecoj/python/permits.csv",
+		"/Users/grecoj/php/php/dirt-simple-api/v1/ws_bus_shelter_adopt.php",
+		"/Users/grecoj/php/php/test.php",
+		"/Volumes/wwwroot/iMAPS_Mobile/config.txt",
+		"/Users/grecoj/php/php/ShelterAdopt/index.html",
+		"/Users/grecoj/php/php/dirt-simple-api/v1/ws_bus_shelter_admin.php",
+		"/Users/grecoj/git/gis/PUMA/css/main.css",
+		"/Volumes/wwwroot-4/iMAPS_Mobile/config.txt",
+		"/Volumes/grecoj-1/dirt-simple-api/v1/ws_bus_shelter_adopt.php",
+		"/Users/grecoj/php/php/ShelterAdopt/js/main.js",
+		"/Volumes/grecoj-1/ShelterAdopt/index.html",
+		"/Volumes/grecoj-1/dirt-simple-api/inc/database.inc.txt",
+		"/Volumes/grecoj-1/ShelterAdopt/js/main.js",
+		"/Users/grecoj/git/gis/miniMaps/index.html",
+		"/Users/grecoj/git/gis/miniMaps/js/main.js",
+		"/Volumes/Documents/Visual Studio 2010/Projects/StormwaterSOE/StormwaterSOE/StormwaterSOE.cs",
+		"/Users/grecoj/git/gis/ZoningEnforcement/js/main.js",
+		"/C/Users/grecoj/Desktop/addresses.json",
+		"/C/Users/grecoj/git/gis/initializr/js/main.js",
+		"/C/temp/initializr/index.html",
+		"//mapststarcweb1/c$/inetpub/wwwroot/beta/StreetTypology/css/main.css",
+		"//gisdevarc1/c$/inetpub/wwwroot/CrimeMap/js/main.js",
+		"/C/temp/CrimeMap/js/main.js",
+		"/C/temp/CrimeMap/index.html",
+		"/C/Users/grecoj/git/gis/Typology/css/main.css",
+		"/C/Users/grecoj/git/gis/CrimeMap/js/crime.js",
+		"/C/Users/grecoj/git/gis/Typology/js/main.js",
+		"/C/Users/grecoj/AppData/Roaming/Sublime Text 3/Packages/sublime-jslint/sublime-jslint.sublime-settings",
+		"/C/Users/grecoj/git/gis/CrimeMap/fuelux/all.min.js",
+		"/C/Users/grecoj/git/gis/CrimeMap/bootstrap/css/bootstrap-responsive.min.css",
+		"/C/Users/grecoj/git/gis/CrimeMap/bootstrap/js/bootstrap-typeahead.js",
+		"/C/Users/grecoj/Desktop/bootstrap.js",
+		"/C/Users/grecoj/git/gis/CrimeMap/js/main.js",
+		"//mapsarcweb1/c$/inetpub/wwwroot/iMAPS/index.html",
+		"/C/Users/grecoj/git/gis/MapTour/index.html",
+		"/C/Users/grecoj/git/gis/MapTour/app/maptour-config.js",
+		"/C/Users/grecoj/git/gis/MapTour/app/maptour-viewer-min.js",
+		"/C/Users/grecoj/Downloads/Storytelling-MapTour-1.2/index.html",
+		"//mapsarcweb1/c$/inetpub/wwwroot/iMAPS/com/raleigh/components/paneltools/property/services/config.xml",
+		"/C/Users/grecoj/Desktop/index.html",
+		"//gisdevarc1/c$/inetpub/wwwroot/php/crash.php",
+		"/C/Users/grecoj/git/gis/Crime/js/main.js",
+		"/C/Users/grecoj/AppData/Local/Temp/Temp1_layers_point_clustering.zip/data/1000-photos.json",
+		"/C/Users/grecoj/git/gis/Crime/index.html",
+		"/C/Users/grecoj/Desktop/gridMultipleSelectWithoutCTRL.html",
+		"/C/Users/grecoj/git/gis/Zoning/css/main.css",
+		"//gisdevarc1/c$/inetpub/wwwroot/Zoning/js/config.js",
+		"//gisdevarc1/c$/inetpub/wwwroot/Zoning/config.json",
+		"//gisarcweb1/c$/inetpub/wwwroot/RPDCrimeMap/javascript/settings.js",
+		"//gisarcweb1/c$/inetpub/Stormwater/SwuCcbService.php",
+		"/C/inetpub/wwwroot/BOA/index.html",
+		"/C/inetpub/wwwroot/BOA/css/main.css",
+		"/C/inetpub/wwwroot/BOA/js/main.js",
+		"/C/inetpub/wwwroot/BOA/labels.html",
+		"/C/Users/grecoj/Desktop/test.html",
+		"/C/inetpub/wwwroot/BOA/php/labels.php",
+		"/C/inetpub/wwwroot/BOA/labels.php",
+		"//gisdevarc1/c$/inetpub/wwwroot/FPDF/labels.php",
+		"/C/inetpub/wwwroot/Portal/js/plugins/jquery.search-panel.js",
+		"/C/inetpub/wwwroot/Portal/js/main.js",
+		"/C/inetpub/wwwroot/iMAPS/config/stormwater.txt",
+		"/C/inetpub/wwwroot/iMAPS/index.html",
+		"/C/inetpub/wwwroot/iMAPS/js/plugins/jquery.stormwater-search.js",
+		"/C/inetpub/wwwroot/iMAPS/js/plugins/jquery.markup-dialog.js",
+		"/C/inetpub/wwwroot/Portal/js/plugins/jquery.service-panel.js",
+		"/C/inetpub/wwwroot/iMAPS/js/main.js",
+		"/C/inetpub/wwwroot/Portal/js/plugins/jquery.places-panel.js",
+		"/C/inetpub/wwwroot/Portal/css/main.css",
+		"/C/inetpub/wwwroot/parklocatortest/css/main.css",
+		"/C/inetpub/wwwroot/Portal/index.html",
+		"/C/inetpub/wwwroot/iMAPS/js/toolbar.js",
+		"//mapststarcweb1/c$/inetpub/wwwroot/WebPortal/index.html",
+		"/C/inetpub/wwwroot/Portal/js/plugins/jquery.resources-panel.js",
+		"/C/inetpub/wwwroot/iMAPS/js/plugins/jquery.property-search.js",
+		"/C/inetpub/wwwroot/Portal/js/plugins/jquery.search-panel - Copy.js",
+		"/C/inetpub/wwwroot/iMAPS/js/map.js",
+		"/C/inetpub/wwwroot/iMAPS/js/config.js",
+		"/C/inetpub/wwwroot/iMAPS/config/config.txt",
+		"/C/inetpub/wwwroot/iMAPS/js/plugins/jquery.menubar.js",
+		"/C/inetpub/wwwroot/iMAPS/css/main.css",
+		"/C/Users/grecoj/Desktop/Copy of BBinventory.csv",
+		"/C/inetpub/wwwroot/puma/js/main.js",
+		"/C/inetpub/wwwroot/iMAPS/js/plugins.js",
+		"/C/inetpub/wwwroot/iMAPS/js/property.js",
+		"/C/inetpub/wwwroot/iMAPS/js/plugins/jquery.measure-dialog.js",
+		"/C/inetpub/wwwroot/iMAPS/config/puma.txt",
+		"/C/inetpub/wwwroot/iMAPS/js/plugins/jquery.bookmarks.js",
+		"/C/inetpub/wwwroot/iMAPS/js/layerlist.js",
+		"/C/inetpub/wwwroot/iMAPS/404.html",
+		"/C/inetpub/wwwroot/parklocatortest/js/main.js",
+		"/C/inetpub/wwwroot/crash/js/map.js",
+		"/C/inetpub/wwwroot/crash/js/crash.js",
+		"/C/inetpub/wwwroot/crash/js/extras/ClusterLayer.js",
+		"/C/inetpub/wwwroot/crash/js/main.js",
+		"//gisdevarc1/c$/inetpub/wwwroot/Zoning/index.html",
+		"/C/inetpub/wwwroot/iMAPS/js/layerlist2.js",
+		"/E/LaptopBackup/inetpub/wwwroot/JSiMAPS/js/main.js",
+		"/E/LaptopBackup/inetpub/wwwroot/JSiMAPS/js/map.js",
+		"/E/LaptopBackup/inetpub/wwwroot/JSiMAPS/js/layerlist.js",
+		"/C/inetpub/wwwroot/crash/index.html",
+		"/C/inetpub/wwwroot/crash/css/main.css",
+		"//mapsarcweb1/c$/inetpub/wwwroot/iMAPS/config.xml",
+		"/C/inetpub/wwwroot/crash/js/layout.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Gray",
+			");\n",
+			" ]}},",
+			"\\n,",
+			"([^a-z.0-9]) ",
+			"([^a-z.]) ",
+			"([0-9]+\\.[0-9]{6})([0-9]+)",
+			"([0-9]+\\.[0-9]{2})([0-9]+)",
+			"\"ADDRESS\"",
+			"getDevelopment",
+			"{\"attributes\"",
+			"},",
+			"\"OBJECTID\"",
+			" .",
+			"null",
+			"\" OLD_ZONING\"",
+			"\" DESCRIPTION\"",
+			"\" OVERLAY\"",
+			"\" FRONTAGE\"",
+			"\" HEIGHT\"",
+			"\"DESC_ID\"",
+			"\" NEW_ZONING\"",
+			"\" DESC_ID\"",
+			" old",
+			" id",
+			"LINK",
+			"NEW_ZONING",
+			"OLD_ZONING",
+			"DESC_ID",
+			"form",
+			"'",
+			"LOCMAR",
+			"CLEAR",
+			"\"",
+			"errorThrown",
+			"error",
+			"marker",
+			"geoj",
+			"getbuild",
+			"parknamesel",
+			"parknames",
+			"parknamesl",
+			"id =",
+			"getmaxo",
+			"prefix",
+			"getBuildings",
+			"getBu",
+			"parkselec",
+			"getbuil",
+			"					\n",
+			"textarea",
+			"form",
+			"point =",
+			"geteve",
+			"location",
+			"				",
+			"description",
+			"<label",
+			"pag",
+			"\"js/",
+			"\"css/",
+			"5000",
+			"8080",
+			";",
+			"Math",
+			":Number",
+			"var ",
+			"php-r",
+			"cat.sh",
+			"pga",
+			"gis.",
+			"_cat",
+			"gis.",
+			"_cat",
+			"gis.",
+			"_cat",
+			"identifyc",
+			"identifyco",
+			"displaysea",
+			"idf",
+			"idFeatures",
+			"idto",
+			"[],\n",
+			"setvi",
+			"togg",
+			".parent()",
+			".pare",
+			"5",
+			"organizat",
+			"\">\n",
+			"validate",
+			"CreateApportionmentL",
+			"SearchForAcc",
+			"createapportionmentli",
+			"data-addre",
+			"createapportionmentl",
+			"tr",
+			"createApportionmentL",
+			"createApp",
+			"showAccountInfo",
+			"showData",
+			"ccb",
+			"UpdateA",
+			"UpdateSi",
+			"updatepre",
+			"Update ",
+			"getAppo",
+			"identify",
+			"find",
+			"getAppo",
+			"Apportion",
+			"\"toggle\"",
+			"\"modal\"",
+			"Impervious surface Hi",
+			"Credits",
+			"[0]",
+			"showccb",
+			"init()",
+			"showImperviousInfo",
+			"createAccountSearch",
+			"showData();",
+			"Get Imper",
+			"function show",
+			"createAcc",
+			"typeah",
+			"status",
+			"address",
+			"toggle"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"]}},",
+			",",
+			"$1",
+			"\\1",
+			"\"a\"",
+			"a",
+			"\"attributes\"",
+			"}},",
+			"{\"attributes\": { \"OBJECTID\"",
+			"\"\"",
+			"\"old\"",
+			"\"descr\"",
+			"\"overlay\"",
+			"\"frontage\"",
+			"\"height\"",
+			"\"id\"",
+			"\"new\"",
+			"\"DESC_ID\"",
+			"old",
+			"id",
+			"url",
+			"new",
+			"old",
+			"id",
+			"'",
+			"label",
+			"<label class=\"control-label class col-sm-3\"",
+			"\"/static/",
+			"",
+			"math",
+			"",
+			", {",
+			") +",
+			", $",
+			"if (",
+			", 0",
+			", [",
+			", function",
+			"function (",
+			") {",
+			"\"<option",
+			"\"</",
+			"<op",
+			"<div",
+			"</",
+			"progressModal",
+			"option:s",
+			"+=",
+			") :",
+			" < ",
+			") - ",
+			"} else {",
+			"++",
+			"r :",
+			"; }",
+			"++",
+			": ",
+			":",
+			"http://",
+			", ",
+			", \"",
+			" : ",
+			"+ ",
+			" +",
+			" + ",
+			": \"",
+			" ? ",
+			"!==",
+			"!=",
+			"===",
+			"if (",
+			"if ",
+			") {",
+			"function (",
+			": ",
+			"progressModal",
+			"PM",
+			"_testextent",
+			"definition",
+			"name",
+			"label",
+			"fillselect",
+			"In Service",
+			"",
+			",-",
+			"In Service,",
+			"\"title\"",
+			"\"items\"",
+			"tabul",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/grecoj/fiber-animation/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2541,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2541,
+								2510
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 285.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/grecoj/git/gis/marathon/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5345,
+								5349
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1515.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/grecoj/python/wsgi/static/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								945,
+								945
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/grecoj/python/wsgi/myflaskapp.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5722,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2988,
+								2988
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 8,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 124.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/grecoj/python/wsgi/static/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8617,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5876,
+								5876
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2335.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/grecoj/git/addresses/addresses2.geojson",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21361660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 18533.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/grecoj/git/gis/FindMyService/find-my-service.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 81,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
