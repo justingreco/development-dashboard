@@ -1,0 +1,151 @@
+<div ng-init="showSplash($event, 'Information submitted on the Online HDEP Complaint Form is a public record.', 'Disclaimer')">
+  <md-toolbar md-scroll-shrink>
+    <div class="md-toolbar-tools">Online Noise Complaint Form</div>
+  </md-toolbar>
+  <div class="">
+    <div id="map" style="height:300px; width:100%; "><div id="LocateButton"></div><div id="tooltip"></div></div>
+  </div>
+  <div flex layout-padding layout-align="center center">
+    <div id="question1" layout-align="center center" layout="column">
+      <h2 class="md-title">1. Select an Establishment</h2>
+      <md-input-container>
+        <label>Establishment</label>
+        <md-select ng-model="establishment" ng-change="scrollTo('question2');zoomToBusiness(establishment);">
+          <md-option ng-repeat="establishment in establishments  | orderBy: 'attributes.ESTABLISHMENT' track by establishment.attributes.ESTABLISHMENT" ng-value="establishment" >
+            {{establishment.attributes.ESTABLISHMENT}}
+          </md-option>
+        </md-select>
+      </md-input-container>
+    </div>
+    <div id="question2" ng-show="establishment" layout-align="center center" layout="column">
+      <h2 class="md-title">2. To resolve your complaint the City of Raleigh encourages you to contact the business directly at</h2>
+      <a ng-href="tel:1-{{establishment.attributes.PHONE}}"><h2>{{establishment.attributes.PHONE}}</h2></a>
+
+      <span class="md-body-2">(Contact {{establishment.attributes.CONTACT}})</span>
+
+
+    <span class="alert911">
+If this is an emergency please call 911
+  </span>
+      <md-button class="md-raised md-primary" ng-click="complaintant.question2 = true;scrollTo('question3');">Continue with Online Complaint</md-button>
+    </div>
+    <div id="question3" ng-show="complaintant.question2" layout-align="center center" layout="column">
+      <h2 class="md-title">3. Fill out the following form</h2>
+      <form name="complaintForm">
+        <md-input-container class="md-block">
+          <label>Your Name</label>
+          <input required name="complaintant" ng-model="complaintant.name" md-maxlength="50">
+          <div ng-messages="complaintForm.complaintant.$error">
+            <div ng-message="required">This is required.</div>
+          </div>
+
+        </md-input-container>
+        <md-input-container class="md-block" flex-gt-sm>
+          <label>Phone Number</label>
+          <input name="phone" ng-model="complaintant.phoneNumber" ng-pattern="/^[0-9]{3}-[0-9]{3}-[0-9]{4}$/" md-maxlength="12"/>
+          <div class="hint" ng-show="showHints">###-###-####</div>
+          <div ng-messages="complaintForm.phone.$error" ng-hide="showHints">
+            <div ng-message="pattern">###-###-#### - Please enter a valid phone number.</div>
+          </div>
+        </md-input-container>
+
+        <md-input-container class="md-block">
+          <label>Your Email</label>
+          <input required type="email" name="complaintantEmail" ng-model="complaintant.email"
+          minlength="10" maxlength="50" ng-pattern="/^.+@.+\..+$/" md-maxlength="50"/>
+          <div ng-messages="complaintForm.complaintantEmail.$error" role="alert">
+            <div ng-message-exp="['required', 'minlength', 'maxlength', 'pattern']">
+              Your email must be between 10 and 50 characters long and look like an e-mail address.
+            </div>
+          </div>
+        </md-input-container>
+        <md-content>
+          <md-datepicker id="date" name="date" ng-model="complaintant.date"
+              md-min-date="minDate" md-max-date="maxDate"></md-datepicker>
+              <div ng-messages="complaintForm.date.$error">
+                <div ng-message="required">This is required.</div>
+              </div>
+        </md-content>
+        <div class="row" align="center center">
+          <md-input-container>
+            <label>Hour</label>
+            <md-select ng-model="complaintant.time.hour" required>
+              <md-option ng-repeat="hour in hours" ng-value="hour" >
+                {{hour}}
+              </md-option>
+            </md-select>
+            <div ng-messages="complaintForm.date.$error">
+              <div ng-message="required">This is required.</div>
+            </div>
+          </md-input-container>
+          <md-input-container>
+            <label>Minute</label>
+            <md-select ng-model="complaintant.time.minute" required>
+              <md-option ng-repeat="minute in minutes" ng-value="minute" >
+                {{minute}}
+              </md-option>
+            </md-select>
+            <div ng-messages="complaintForm.date.$error">
+              <div ng-message="required">This is required.</div>
+            </div>
+          </md-input-container>
+          <md-input-container>
+            <label>am/pm</label>
+            <md-select ng-model="complaintant.time.ampm" required>
+              <md-option ng-repeat="ampm in ampms" ng-value="ampm" >
+                {{ampm}}
+              </md-option>
+            </md-select>
+            <div ng-messages="complaintForm.date.$error">
+              <div ng-message="required">This is required.</div>
+            </div>
+          </md-input-container>
+        </div>
+        <br/>
+        <div layout="column">
+          <md-checkbox
+          ng-model="complaintant.music">
+          Loud Music
+        </md-checkbox>
+        <md-checkbox
+        ng-model="complaintant.crowd">
+        Crowd/Voices
+      </md-checkbox>
+      <md-checkbox
+      ng-model="complaintant.bass">
+      Bass Effect
+    </md-checkbox>
+    <md-checkbox
+    ng-model="complaintant.other">
+    Other
+  </md-checkbox>
+</div>
+</form>
+<md-button ng-disabled="complaintForm.$invalid" ng-click="complaintant.question3 = true;scrollTo('question4')" class="md-raised md-primary">Continue</md-button>
+</div>
+<div id="question4" ng-show="complaintant.question3 || complaintForm.input.$error" layout-align="center center" layout="column">
+  <h2 class="md-title">4. Prior to filing this complaint did you contact the establishment?</h2>
+  <md-radio-group ng-model="complaintant.question4" ng-click="question4Answered()">
+    <md-radio-button value="Yes" class="md-primary">Yes</md-radio-button>
+    <md-radio-button value="No"> No </md-radio-button>
+  </md-radio-group>
+</div>
+<div id="question5" ng-show="complaintant.question4 =='Yes'" layout-align="center center" layout="column">
+  <h2 class="md-title">5. Did you speak with a member of management?</h2>
+  <md-radio-group ng-model="complaintant.question5" ng-click="question5Answered()">
+    <md-radio-button value="Yes" class="md-primary">Yes</md-radio-button>
+    <md-radio-button value="No"> No </md-radio-button>
+  </md-radio-group>
+</div>
+<div id="question6" ng-show="complaintant.question5 =='Yes'" layout-align="center center" layout="column">
+  <h2 class="md-title">6. Was your complaint resolved?</h2>
+  <md-radio-group ng-model="complaintant.question6" ng-click="scrollTo('submitButton')">
+    <md-radio-button value="Yes" class="md-primary">Yes</md-radio-button>
+    <md-radio-button value="No"> No </md-radio-button>
+  </md-radio-group>
+</div>
+<div layout-align="center center" layout="row" ng-show="complaintant.question6 || complaintant.question5 == 'No' || complaintant.question4 == 'No'">
+  <md-button id="submitButton"  class="md-raised md-primary" ng-click="submitForm(complaintant, establishment)">Submit</md-button>
+</div>
+</div>
+</div>

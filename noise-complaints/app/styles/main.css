@@ -1,0 +1,33 @@
+.md-dialog-container {
+  position: fixed;
+}
+.alert911 {
+	color: rgb(255,87,34);
+    margin: 6px 8px;
+    line-height: 36px;
+    min-height: 36px;
+    background: transparent;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 500;
+    font-size: 14px;
+    font-style: inherit;
+    font-variant: inherit;
+    font-family: inherit;
+}
+
+.dijitPopup {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  border-radius: 0.4em;
+  padding:5px;
+  font-size: 10pt;
+  max-width: 150px;
+}
+#LocateButton {
+  position: absolute;
+  top: 145px;
+  left: 20px;
+  z-index: 50;
+}
